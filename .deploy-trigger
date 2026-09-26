@@ -1,2 +1,3 @@
 cliente-v1.6.63 audit-fixes source=jorge2610g/mipagina staging=7a3e4bc7579ab9950bdf2bb247ce4042559fb04f
 release-gate source=jorge2610g/mipagina staging=a19be79e28b977412893a172a879ce7461175157 2026-09-26T19:20Z
+protection-gate source-sha=e58e48fbd811211997f9fa3617dabba51fc894f5
